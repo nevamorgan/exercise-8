@@ -42,8 +42,6 @@ head(df)
    theme(axis.text.x = element_text(angle = 90, face = "bold")) +
    theme(plot.subtitle = element_text(color = "navy", face = "bold"))
 
-
-
 ``
 ###3. Join your new data.frame to the raw COVID data. Think about right, inner,
 ###   left, or full join…
